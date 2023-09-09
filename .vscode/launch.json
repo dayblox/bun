@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "internalConsoleOptions": "openOnSessionStart",
+      "name": "Debug",
+      "program": "${workspaceFolder}/src/index.ts",
+      "request": "launch",
+      "type": "bun",
+      "watchMode": "hot"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "bun",
+  "author": "dayblox",
+  "description": "Bun starter",
+  "scripts": {
+    "dev": "bun --hot src",
+    "start": "bun src"
+  },
+  "dependencies": {
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@types/bun": "^1.3.9"
+  }
+}
