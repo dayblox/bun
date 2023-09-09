@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env*
+
+# Build output
+app.exe
+*.map
