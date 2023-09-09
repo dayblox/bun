@@ -1,0 +1,10 @@
+{
+	"$schema": "https://biomejs.dev/schemas/latest/schema.json",
+	"formatter": { "indentStyle": "tab" },
+	"javascript": { "formatter": { "semicolons": "asNeeded" } },
+	"linter": {
+		"rules": {
+			"correctness": { "noUnusedImports": { "fix": "safe", "level": "on" } }
+		}
+	}
+}
