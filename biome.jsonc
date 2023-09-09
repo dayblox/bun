@@ -1,0 +1,6 @@
+{
+  "$schema": "https://biomejs.dev/schemas/latest/schema.json",
+  "formatter": { "indentStyle": "space" },
+  "javascript": { "formatter": { "semicolons": "asNeeded" } },
+  "linter": { "rules": { "correctness": { "noUnusedImports": "error" } } }
+}
