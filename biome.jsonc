@@ -1,0 +1,7 @@
+{
+  "$schema": "https://biomejs.dev/schemas/latest/schema.json",
+  "files": { "ignore": ["./node_modules/*"] },
+  "formatter": { "indentStyle": "space" },
+  "javascript": { "formatter": { "semicolons": "asNeeded" } },
+  "linter": { "rules": { "correctness": { "noUnusedImports": "error" } } }
+}

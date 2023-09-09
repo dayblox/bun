@@ -1,0 +1,5 @@
+preload = ["./src/env.ts"]
+telemetry = false
+
+[test]
+preload = ["./src/env.ts"]
